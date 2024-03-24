@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, January 21, 2024 1:37:31 AM</msg><msg code="0" type="0">Random Seed: 94423</msg><msg code="0" type="0">json:
+{"element": "unorderedlist", "data": ["Cell Size: 180.00"]}</msg><msg code="110208" type="100">ERROR 110208: The Variable to Predict for regression requires more than five unique values.</msg><msg code="-2147467259" type="100">Failed to execute (Forest).</msg><msg code="0" type="3">Failed at Sunday, January 21, 2024 1:38:28 AM (Elapsed Time: 56.85 seconds)</msg></messages>
